@@ -1,0 +1,41 @@
+LED Painting
+
+I propose to build a painting made from LEDs. This painting would show motion and will move by programming LEDs to blink in an order.
+
+Summary
+
+I wish to make a visual piece using LEDs. Paintings and images are generally static. However if I were to make one using LEDs, abstract or otherwise, I could give it motion. I would lay a lot of leds in an organized manner and use the arduino to program them. Changing the brightness and switching LEDs on and of at appropriate times can give the overall picture motion.
+
+I took inspiration from led art at SF MOMA
+https://www.youtube.com/watch?v=GH6Zk-TBdQg
+
+I could then put it behind something to diffuse the light if I wish.
+I could also attach a light/motion sensor on it so it is triggered in someone's presence or in the dark.
+
+Component Parts
+
+Arduino (INPUT)
+Lot of Leds (OUTPUT)
+Breadboards (Or something to house the LEDs)
+Light sensor (INPUT, DATA)
+
+
+Challenges
+
+I have to decide what I form will I be making.
+I have to plan the arrangement of the LEDs.
+Figure out the code for making LEDs blink at the right time.
+Figure if I am going to lay my LEDs on breadboards or is there a better alternative.
+
+Timeline
+Week 1: Write proposal
+Week 2: Plan out structure of the painting. Estimate all the LEDs and colors I need. Acquire hardware components: LEDs and build a prototype circuit with those pieces.
+Week 3: Make the project. Write the program needed.
+Week 4: Integrate all the components together and debug.
+Week 5: Present complete project.
+
+
+Question for you:
+
+Do i lay my LEDs on breadboards or is there a better alternative?
+I will have a lot of LEDs. Do you think I would need a bigger arduino? One with more pins? 
